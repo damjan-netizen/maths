@@ -1,3 +1,3 @@
 # Mathematics
 
-Generaly numerical analysis algorithms, some finite element analysiss
+Numerical analysis algorithms, made in C/C++ and python
